@@ -15,4 +15,4 @@ app.get('/', (req, res) => {
 // Controllers
 app.use('/', require('./routes/cities'))
 
-app.listen(8000);
+app.listen(3004);
